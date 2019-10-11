@@ -1,3 +1,5 @@
+## What it does:
+#### It takes a webcam stream and predicts the hand symbol being shown
 ## How to use:
 #### Run the FinalTester.ipynb file to see the result prediction.
 ## Dataset:
